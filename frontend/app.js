@@ -21,7 +21,7 @@
 
   // Address of the backend on Railway, for example "https://comrade-price-api.up.railway.app" (no trailing slash).
   // Leave "" to run on the built-in catalogue below (no database, no saved bookings, no staff dashboard).
-  var API_URL = "";
+  var API_URL = "miraculous-sparkle-production-9f19.up.railway.app";
 
   var BUSINESS = {
     name: "Comrade Price Salon",
