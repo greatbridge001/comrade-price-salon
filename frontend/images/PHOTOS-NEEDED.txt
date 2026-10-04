@@ -1,0 +1,39 @@
+PHOTOS (real photos only, .jpg). Every src is in frontend/index.html
+
+1. Landing-page background: <img class="hero-bg" src="images/hero.jpg">  (landscape, 1600px+ wide, darker photo reads best)
+2. About photo: <img src="images/about.jpg">  (portrait)
+3. Gallery and shop photos: the list inside <template id="photoSources"> near the bottom of index.html (portrait, about 800 x 1000px)
+
+Gallery files:
+  images/gallery/knotless-braids.jpg
+  images/gallery/boho-braids.jpg
+  images/gallery/loose-braids.jpg
+  images/gallery/coco-twist.jpg
+  images/gallery/havana-curls.jpg
+  images/gallery/rasta-twist.jpg
+  images/gallery/knotless-twist.jpg
+  images/gallery/locks-installation.jpg
+  images/gallery/sasha-locks.jpg
+  images/gallery/sister-locks.jpg
+  images/gallery/natural-hair-twists.jpg
+  images/gallery/hair-rolling.jpg
+  images/gallery/fluffy-style.jpg
+  images/gallery/hair-colour.jpg
+
+Shop files:
+  images/products/black-fitted-dress.jpg
+  images/products/floral-wrap-dress.jpg
+  images/products/satin-crop-top.jpg
+  images/products/ribbed-bodysuit.jpg
+  images/products/high-waist-trousers.jpg
+  images/products/palazzo-trousers.jpg
+  images/products/pleated-midi-skirt.jpg
+  images/products/denim-mini-skirt.jpg
+  images/products/straight-jeans.jpg
+  images/products/matching-set.jpg
+  images/products/oversized-hoodie.jpg
+  images/products/knit-sweater.jpg
+  images/products/hoop-earrings.jpg
+
+Replace the src on each line with your own file name or a full https:// link. Keep data-photo unchanged.
+Only use photos of the salon's own work and stock, or ones you have permission to use. Keep each under about 300 KB.

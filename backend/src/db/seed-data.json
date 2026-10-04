@@ -1,0 +1,557 @@
+{
+  "services": [
+    {
+      "category": "locks",
+      "name": "Locks Installation",
+      "price": 1000,
+      "description": "Fresh locks installed neatly from the root.",
+      "sort_order": 10
+    },
+    {
+      "category": "locks",
+      "name": "Locks Retouch",
+      "price": 550,
+      "description": "Keep your locks tidy and defined between installs.",
+      "sort_order": 20
+    },
+    {
+      "category": "locks",
+      "name": "Retouch with Own Wax",
+      "price": 300,
+      "description": "Retouch using wax you bring with you.",
+      "sort_order": 30
+    },
+    {
+      "category": "locks",
+      "name": "Retouch with Salon Wax",
+      "price": 500,
+      "description": "Retouch using wax supplied by the salon.",
+      "sort_order": 40
+    },
+    {
+      "category": "locks",
+      "name": "Sister Locks Installation",
+      "price": 3000,
+      "description": "Fine, uniform sister locks for a long-lasting look.",
+      "sort_order": 50
+    },
+    {
+      "category": "locks",
+      "name": "Sasha Lock Installation",
+      "price": 800,
+      "description": "Sasha locks installed with a clean, even finish.",
+      "sort_order": 60
+    },
+    {
+      "category": "twists",
+      "name": "Natural Hair Twist",
+      "price": 500,
+      "description": "Protective twists done on your natural hair.",
+      "sort_order": 70
+    },
+    {
+      "category": "twists",
+      "name": "Coco Twist",
+      "price": 500,
+      "description": "Soft, textured twists with a full, rounded finish.",
+      "sort_order": 80
+    },
+    {
+      "category": "twists",
+      "name": "Knotless Twist",
+      "price": 500,
+      "description": "Lightweight twists with no bulky knot at the root.",
+      "sort_order": 90
+    },
+    {
+      "category": "twists",
+      "name": "Loose Braids",
+      "price": 550,
+      "description": "Relaxed braids with a natural, flowing look.",
+      "sort_order": 100
+    },
+    {
+      "category": "twists",
+      "name": "Boho Braids",
+      "price": 600,
+      "description": "Braids with curly ends for a free, bohemian style.",
+      "sort_order": 110
+    },
+    {
+      "category": "twists",
+      "name": "Rasta Twist",
+      "price": 400,
+      "description": "Classic rasta-style twists.",
+      "sort_order": 120
+    },
+    {
+      "category": "twists",
+      "name": "Plain Hair Twist",
+      "price": 250,
+      "description": "Simple twists, a quick and affordable option.",
+      "sort_order": 130
+    },
+    {
+      "category": "twists",
+      "name": "Miracle Knot",
+      "price": 500,
+      "description": "A knot-style finish that stays neat.",
+      "sort_order": 140
+    },
+    {
+      "category": "twists",
+      "name": "Havana Curls",
+      "price": 500,
+      "description": "Bouncy Havana twists with a soft curl.",
+      "sort_order": 150
+    },
+    {
+      "category": "twists",
+      "name": "Used Fluffy Twist",
+      "price": 500,
+      "description": "Fluffy twists done with hair you already have.",
+      "sort_order": 160
+    },
+    {
+      "category": "other",
+      "name": "Guess Girl",
+      "price": 500,
+      "description": "A popular style on the salon's price list.",
+      "sort_order": 170
+    },
+    {
+      "category": "other",
+      "name": "Blow-dry",
+      "price": 50,
+      "description": "A quick blow-dry finish.",
+      "sort_order": 180
+    },
+    {
+      "category": "other",
+      "name": "Dyeing",
+      "price": 100,
+      "description": "Hair dyeing service.",
+      "sort_order": 190
+    },
+    {
+      "category": "other",
+      "name": "Knot Less",
+      "price": 450,
+      "description": "Knotless style for a smooth, comfortable fit.",
+      "sort_order": 200
+    },
+    {
+      "category": "other",
+      "name": "Rasta",
+      "price": 400,
+      "description": "Rasta style on the salon's price list.",
+      "sort_order": 210
+    },
+    {
+      "category": "other",
+      "name": "Fluffy Any Style",
+      "price": 450,
+      "description": "Choose your style and have it done fluffy.",
+      "sort_order": 220
+    },
+    {
+      "category": "other",
+      "name": "Braids",
+      "price": 70,
+      "description": "Price from the salon's list. Confirm what is included when you book.",
+      "sort_order": 230
+    },
+    {
+      "category": "other",
+      "name": "Beads",
+      "price": 50,
+      "description": "Price from the salon's list. Confirm what is included when you book.",
+      "sort_order": 240
+    },
+    {
+      "category": "other",
+      "name": "Spanish",
+      "price": 50,
+      "description": "Price from the salon's list. Confirm what is included when you book.",
+      "sort_order": 250
+    },
+    {
+      "category": "other",
+      "name": "Hot Water",
+      "price": 50,
+      "description": "Price from the salon's list. Confirm what is included when you book.",
+      "sort_order": 260
+    },
+    {
+      "category": "other",
+      "name": "Extend",
+      "price": 50,
+      "description": "Price from the salon's list. Confirm what is included when you book.",
+      "sort_order": 270
+    },
+    {
+      "category": "other",
+      "name": "Hair Rolling",
+      "price": 200,
+      "description": "Hair rolled for a soft, bouncy set.",
+      "sort_order": 280
+    }
+  ],
+  "products": [
+    {
+      "name": "Black Fitted Dress",
+      "category": "dresses",
+      "price": 1200,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colours": [
+        "Black",
+        "Wine"
+      ],
+      "in_stock": true,
+      "description": "A fitted knee-length dress that works for class, church or a night out.",
+      "image_url": "/images/products/black-fitted-dress.jpg",
+      "sort_order": 10
+    },
+    {
+      "name": "Floral Wrap Dress",
+      "category": "dresses",
+      "price": 1500,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colours": [
+        "Green Floral",
+        "Navy Floral"
+      ],
+      "in_stock": true,
+      "description": "A flowing wrap dress with an adjustable waist tie.",
+      "image_url": "/images/products/floral-wrap-dress.jpg",
+      "sort_order": 20
+    },
+    {
+      "name": "Satin Crop Top",
+      "category": "tops",
+      "price": 600,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colours": [
+        "Champagne",
+        "Black"
+      ],
+      "in_stock": true,
+      "description": "A smooth satin crop top that pairs with high-waist trousers or skirts.",
+      "image_url": "/images/products/satin-crop-top.jpg",
+      "sort_order": 30
+    },
+    {
+      "name": "Ribbed Bodysuit",
+      "category": "tops",
+      "price": 700,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colours": [
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "in_stock": true,
+      "description": "A stretch ribbed bodysuit that stays put all day.",
+      "image_url": "/images/products/ribbed-bodysuit.jpg",
+      "sort_order": 40
+    },
+    {
+      "name": "High-Waist Trousers",
+      "category": "trousers",
+      "price": 1300,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colours": [
+        "Black",
+        "Khaki"
+      ],
+      "in_stock": true,
+      "description": "Tailored high-waist trousers for a sharp, comfortable fit.",
+      "image_url": "/images/products/high-waist-trousers.jpg",
+      "sort_order": 50
+    },
+    {
+      "name": "Wide-Leg Palazzo Trousers",
+      "category": "trousers",
+      "price": 1100,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colours": [
+        "Black",
+        "Wine"
+      ],
+      "in_stock": false,
+      "description": "Loose, flowing wide-leg trousers.",
+      "image_url": "/images/products/palazzo-trousers.jpg",
+      "sort_order": 60
+    },
+    {
+      "name": "Pleated Midi Skirt",
+      "category": "skirts",
+      "price": 1000,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colours": [
+        "Black",
+        "Beige"
+      ],
+      "in_stock": true,
+      "description": "A pleated midi skirt with an elastic waistband.",
+      "image_url": "/images/products/pleated-midi-skirt.jpg",
+      "sort_order": 70
+    },
+    {
+      "name": "Denim Mini Skirt",
+      "category": "skirts",
+      "price": 900,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colours": [
+        "Light Blue",
+        "Dark Blue"
+      ],
+      "in_stock": true,
+      "description": "A classic denim mini skirt with a front button closure.",
+      "image_url": "/images/products/denim-mini-skirt.jpg",
+      "sort_order": 80
+    },
+    {
+      "name": "High-Rise Straight Jeans",
+      "category": "jeans",
+      "price": 1800,
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "colours": [
+        "Blue",
+        "Black"
+      ],
+      "in_stock": true,
+      "description": "High-rise straight-leg jeans in a sturdy stretch denim.",
+      "image_url": "/images/products/straight-jeans.jpg",
+      "sort_order": 90
+    },
+    {
+      "name": "Two-Piece Matching Set",
+      "category": "sets",
+      "price": 2200,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colours": [
+        "Wine",
+        "Black",
+        "Cream"
+      ],
+      "in_stock": true,
+      "description": "A matching top and trouser set, ready to wear as one outfit.",
+      "image_url": "/images/products/matching-set.jpg",
+      "sort_order": 100
+    },
+    {
+      "name": "Oversized Hoodie",
+      "category": "hoodies",
+      "price": 1600,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colours": [
+        "Grey",
+        "Black",
+        "Dusty Pink"
+      ],
+      "in_stock": true,
+      "description": "A soft, oversized hoodie for cold mornings on campus.",
+      "image_url": "/images/products/oversized-hoodie.jpg",
+      "sort_order": 110
+    },
+    {
+      "name": "Knit Sweater",
+      "category": "sweaters",
+      "price": 1400,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colours": [
+        "Cream",
+        "Camel",
+        "Black"
+      ],
+      "in_stock": true,
+      "description": "A warm knit sweater with a relaxed fit.",
+      "image_url": "/images/products/knit-sweater.jpg",
+      "sort_order": 120
+    },
+    {
+      "name": "Gold-Tone Hoop Earrings",
+      "category": "accessories",
+      "price": 350,
+      "sizes": [
+        "One size"
+      ],
+      "colours": [
+        "Gold",
+        "Silver"
+      ],
+      "in_stock": true,
+      "description": "Lightweight hoop earrings for everyday wear.",
+      "image_url": "/images/products/hoop-earrings.jpg",
+      "sort_order": 130
+    }
+  ],
+  "gallery": [
+    {
+      "style_name": "Knotless Braids",
+      "category": "braids",
+      "starting_price": 450,
+      "service_name": "Knot Less",
+      "image_url": "/images/gallery/knotless-braids.jpg",
+      "sort_order": 10
+    },
+    {
+      "style_name": "Boho Braids",
+      "category": "braids",
+      "starting_price": 600,
+      "service_name": "Boho Braids",
+      "image_url": "/images/gallery/boho-braids.jpg",
+      "sort_order": 20
+    },
+    {
+      "style_name": "Loose Braids",
+      "category": "braids",
+      "starting_price": 550,
+      "service_name": "Loose Braids",
+      "image_url": "/images/gallery/loose-braids.jpg",
+      "sort_order": 30
+    },
+    {
+      "style_name": "Coco Twist",
+      "category": "twists",
+      "starting_price": 500,
+      "service_name": "Coco Twist",
+      "image_url": "/images/gallery/coco-twist.jpg",
+      "sort_order": 40
+    },
+    {
+      "style_name": "Havana Curls",
+      "category": "twists",
+      "starting_price": 500,
+      "service_name": "Havana Curls",
+      "image_url": "/images/gallery/havana-curls.jpg",
+      "sort_order": 50
+    },
+    {
+      "style_name": "Rasta Twist",
+      "category": "twists",
+      "starting_price": 400,
+      "service_name": "Rasta Twist",
+      "image_url": "/images/gallery/rasta-twist.jpg",
+      "sort_order": 60
+    },
+    {
+      "style_name": "Knotless Twist",
+      "category": "twists",
+      "starting_price": 500,
+      "service_name": "Knotless Twist",
+      "image_url": "/images/gallery/knotless-twist.jpg",
+      "sort_order": 70
+    },
+    {
+      "style_name": "Fresh Locks Installation",
+      "category": "locs",
+      "starting_price": 1000,
+      "service_name": "Locks Installation",
+      "image_url": "/images/gallery/locks-installation.jpg",
+      "sort_order": 80
+    },
+    {
+      "style_name": "Sasha Locks",
+      "category": "locs",
+      "starting_price": 800,
+      "service_name": "Sasha Lock Installation",
+      "image_url": "/images/gallery/sasha-locks.jpg",
+      "sort_order": 90
+    },
+    {
+      "style_name": "Sister Locks",
+      "category": "locs",
+      "starting_price": 3000,
+      "service_name": "Sister Locks Installation",
+      "image_url": "/images/gallery/sister-locks.jpg",
+      "sort_order": 100
+    },
+    {
+      "style_name": "Natural Hair Twists",
+      "category": "natural",
+      "starting_price": 500,
+      "service_name": "Natural Hair Twist",
+      "image_url": "/images/gallery/natural-hair-twists.jpg",
+      "sort_order": 110
+    },
+    {
+      "style_name": "Hair Rolling Set",
+      "category": "natural",
+      "starting_price": 200,
+      "service_name": "Hair Rolling",
+      "image_url": "/images/gallery/hair-rolling.jpg",
+      "sort_order": 120
+    },
+    {
+      "style_name": "Fluffy Style",
+      "category": "other",
+      "starting_price": 450,
+      "service_name": "Fluffy Any Style",
+      "image_url": "/images/gallery/fluffy-style.jpg",
+      "sort_order": 130
+    },
+    {
+      "style_name": "Hair Colour",
+      "category": "other",
+      "starting_price": 100,
+      "service_name": "Dyeing",
+      "image_url": "/images/gallery/hair-colour.jpg",
+      "sort_order": 140
+    }
+  ]
+}
